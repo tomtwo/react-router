@@ -1,5 +1,5 @@
 es6
-lib
+# lib # add lib to repo to pull in pre-compiled into npm
 umd
 examples/**/*-bundle.js
 node_modules
